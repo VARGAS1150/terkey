@@ -44,5 +44,5 @@ Hmm.. this menu just contains a little shit about this tool and me
 
 > Hey, if you think this is very useful, give me star please !
 > Thanks !
-## Author
-So many information about me in internet, just type ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
+
+
